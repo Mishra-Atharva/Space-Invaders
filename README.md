@@ -4,9 +4,7 @@ The player has 3 lives, everytime an enemy touches the bottom of the screen the 
 
 ## How to Install
 - Download from [Space Invader Install](https://github.com/Mishra-Atharva/Space-Invader-Install)
-- Clone the Repository
-- Go to `x64` Folder
-- Go to `Release` Folder
+- Clone the `Space Invader Install` Repository
 - Run `first_game.exe`
 
 ## Controls
